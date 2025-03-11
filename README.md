@@ -1,5 +1,6 @@
-## Hi there 👋
-<h1 align=center
+<h1>Hello and Welcome!<img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://slackmojis.com/emojis/68692-amongus/download)" width="30"/></h1>
+
+
 
 ## Ask me about 
 - Computer Vision
