@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))" title="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))"/>])
+[<img src="" alt="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))" title="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))"/>])
 
 
 
