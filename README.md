@@ -1,4 +1,5 @@
-<h1>Hello and Welcome!<img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://slackmojis.com/emojis/68692-amongus/download)" width="30"/></h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))" title="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))"/>])
+
 
 
 
