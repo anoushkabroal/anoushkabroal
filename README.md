@@ -1,4 +1,4 @@
-[<img src="" alt="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))" title="🫶 Hello and Welcome! I'm (Anoushk(abroal|a Abroal))"/>])
+# Hello! I'm Anoushka Abroal 
 
 
 
