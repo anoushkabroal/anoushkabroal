@@ -2,6 +2,7 @@
 I'm Anoushka Abroal, a second year Computer Science with a minor in Biology student at Northeastern University. I'm interested in Computer Vision, Dance, and the intersection of AI and healthcare!
 
 Reach out to me with any questions, project opportunities, or just to chat!
+
 Email: abroal.a@northeastern.edu | anoushka.abroal@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/anoushka-abroal-5923842b7/) 
@@ -19,6 +20,7 @@ Email: abroal.a@northeastern.edu | anoushka.abroal@gmail.com
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-053B33?style=for-the-badge&logo=mediapipe&logoColor=00000)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-2CB086?style=for-the-badge&logo=streamlit&logoColor=F02424)
+![Unity](https://img.shields.io/badge/Unity-053B33?style=for-the-badge&logo=unity&logoColor=00000)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
