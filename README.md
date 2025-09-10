@@ -7,7 +7,7 @@ Email: abroal.a@northeastern.edu | anoushka.abroal@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/anoushka-abroal-5923842b7/) 
 
-!-- add racket and such --!
+<!-- add racket, python stuff, pycharm -->
 
 ## Tech Profile
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
