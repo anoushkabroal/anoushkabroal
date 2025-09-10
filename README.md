@@ -1,5 +1,5 @@
 # Hello!
-I'm Anoushka Abroal, a second year Computer Science with a minor in Biology student at Northeastern University. I'm always interested in new projects and am currently looking for post graduate opportunities. 
+I'm Anoushka Abroal, a second year Computer Science with a minor in Biology student at Northeastern University. I'm interested in Computer Vision, Dance, and the intersection of AI and healthcare!
 
 Reach out to me with any questions or just to chat!
 Email: abroal.a@northeastern.edu | anoushka.abroal@gmail.com
