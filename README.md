@@ -13,7 +13,7 @@ Email: abroal.a@northeastern.edu | anoushka.abroal@gmail.com
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL]https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=mySQL&logoColor=ffdd54
+![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=mySQL&logoColor=ffdd54)
 
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
