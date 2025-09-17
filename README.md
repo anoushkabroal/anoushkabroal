@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehanana/mehanana/master/Hi%20🌺%20I’m%20Anoushka!.gif" 
+  <img src="zzz" 
        height="250" 
        width="500" 
        alt="👋 Hi there! I'm (Anoushka(111| Abroal))" 
