@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zzz" 
+  <img src="terminal.gif" 
        height="250" 
        width="500" 
        alt="👋 Hi there! I'm (Anoushka(111| Abroal))" 
