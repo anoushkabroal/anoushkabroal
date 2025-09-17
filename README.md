@@ -1,4 +1,10 @@
-# Hello!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehanana/mehanana/master/Hi%20🌺%20I’m%20Mehana!.gif" 
+       height="250" 
+       width="500" 
+       alt="👋 Hi there! I'm (Anoushka(111| Abroal))" 
+       title="👋 Hi there! I'm (Anoushka(111| Abroal))"/>
+</p>
 I'm Anoushka Abroal, a second year Computer Science with a minor in Biology student at Northeastern University. I'm interested in Computer Vision, Dance, and the intersection of AI and healthcare!
 
 Reach out to me with any questions, project opportunities, or just to chat!
