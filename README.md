@@ -5,6 +5,9 @@
        alt="👋 Hi there! I'm (Anoushka(111| Abroal))" 
        title="👋 Hi there! I'm (Anoushka(111| Abroal))"/>
 </p>
+
+![Anoushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoushkabroal&hide=contribs,prs)
+
 I'm Anoushka Abroal, a second year Computer Science with a minor in Biology student at Northeastern University. I'm interested in Computer Vision, Dance, and the intersection of AI and healthcare!
 
 Reach out to me with any questions, project opportunities, or just to chat!
